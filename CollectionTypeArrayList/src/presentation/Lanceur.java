@@ -17,6 +17,7 @@ public class Lanceur {
 		al.add(true);
 		al.add('d');
 		al.add('d');
+		al.add(true);
 		
 		//parcours
 		for(int i=0;i<al.size();i++)
